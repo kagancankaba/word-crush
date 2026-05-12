@@ -5,7 +5,7 @@ A Turkish word puzzle mobile game built with Flutter and Dart. Players swipe thr
 ## Gameplay
 
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+<img src="screenshots/main-menu.png" width="250"/>
 
 Select adjacent letters by dragging to form Turkish words. Longer words trigger special powers, and sub-words within a word earn bonus combo points. The game tracks moves, score, and found words in real time.
 
@@ -29,8 +29,8 @@ Select adjacent letters by dragging to form Turkish words. Longer words trigger 
 | 6 letters | Column clear |
 | 7+ letters | 5×5 mega blast |
 
-### Main Menu
-![Main Menu](screenshots/main-menu.png)
+### Game Screen
+<img src="screenshots/game-screen.png" width="250"/>
 
 ## Jokers
 
@@ -44,7 +44,7 @@ Select adjacent letters by dragging to form Turkish words. Longer words trigger 
 | Party Boost | 400 | Refreshes entire grid |
 
 ### Market
-![Market](screenshots/market.png)
+<img src="screenshots/market.png" width="250"/>
 
 ## Technologies
 
